@@ -1,0 +1,103 @@
+# macOS
+
+.DS_Store
+
+.AppleDouble
+
+.LSOverride
+
+
+
+# Windows
+
+Thumbs.db
+
+ehthumbs.db
+
+Desktop.ini
+
+
+
+# Linux
+
+*~
+
+
+
+# VS Code
+
+.vscode/
+
+*.code-workspace
+
+
+
+# JetBrains IDEs
+
+.idea/
+
+*.iml
+
+
+
+# Sublime
+
+*.sublime-workspace
+
+*.sublime-project
+
+
+
+# Java
+
+*.class
+
+*.jar
+
+*.war
+
+*.ear
+
+target/
+
+.gradle/
+
+.gradle-cache/
+
+
+
+# Logs & temporary files
+
+logs/
+
+*.log
+
+*.tmp
+
+*.temp
+
+*.swp
+
+
+
+# Environment / Sensitive
+
+.env
+
+.env.*
+
+*.key
+
+*.pem
+
+
+
+# Cache/Temp
+
+coverage/
+
+.cache/
+
+.tmp/
+
+
